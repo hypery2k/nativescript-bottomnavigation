@@ -44,6 +44,6 @@
 	"homepage": "https://github.com/bradmartin/nativescript-bottomnavigation",
 	"readmeFilename": "README.md",
 	"devDependencies": {
-		"typescript": "^1.8.10"
+		"typescript": "^2.0.8"
 	}
 }
